@@ -70,10 +70,10 @@ bash
 
 ## Options
 # Command	Description
---dir	Specify a custom directory to scan. Default: Desktop, Downloads, Music, Pictures, Videos.
---types	Only organize certain file types (e.g., mp3, jpg, txt).
---backup	Create a backup of the directory before organizing the files.
---dry-run	Perform a dry-run without actually moving files (simulates the organization process).
+1. --dir	Specify a custom directory to scan. Default: Desktop, Downloads, Music, Pictures, Videos.
+2. --types	Only organize certain file types (e.g., mp3, jpg, txt).
+3. --backup	Create a backup of the directory before organizing the files.
+4. --dry-run	Perform a dry-run without actually moving files (simulates the organization process).
 # Example Commands
 
    Organize default directories with a backup:
