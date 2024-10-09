@@ -23,9 +23,8 @@ Make sure you have [Python](https://www.python.org/downloads/) installed on your
 
 bash
 
-cd file-arranger
-
-Ensure Python is installed. You can check by running:
+      cd file-arranger
+3.Ensure Python is installed. You can check by running:
 
 bash
 
@@ -101,7 +100,7 @@ bash
 
     python file_arranger.py --dir /Users/John/Pictures
 
-How It Works
+## How It Works
 
    Sorting by File Type: The script will look at each file's extension (e.g., .jpg, .mp3) and move it to a corresponding folder like Images, Music, Documents, etc.
 
@@ -113,10 +112,10 @@ How It Works
 
    Dry-Run Mode: If you use the --dry-run option, the script will only simulate what would happen without moving any files. This is useful for checking before making any changes.
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-Contributing
+## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repo and submit a pull request!
 
